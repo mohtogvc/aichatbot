@@ -9,7 +9,7 @@ const toggleThemeButton = document.querySelector("#theme-toggle-button");
 
 
 
-// Get elements for the developer info button and modal
+// Get elements for the develope info button and modal
 const developerInfoButton = document.getElementById("developer-info-button");
 const developerModal = document.getElementById("developer-modal");
 const closeModalButton = document.getElementById("close-modal");

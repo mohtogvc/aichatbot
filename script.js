@@ -24,7 +24,7 @@ closeModalButton.addEventListener("click", () => {
   developerModal.style.display = "none";
 });
 
-// Close the modal when clicking outside the modal content
+// Close the modal when clicking outside the modal conten
 window.addEventListener("click", (event) => {
   if (event.target === developerModal) {
     developerModal.style.display = "none";
